@@ -37,7 +37,7 @@ const Navbar = () => {
         {!nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
       </div>
       {/* mobile menu */}
-      <div className={!nav? "fixed pt-4 left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000300] ease-in-out duration-500" : "fixed left-[-100%]"}>
+      <div className={!nav? " md:hidden fixed pt-4 left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000300] ease-in-out duration-500" : "fixed left-[-100%]"}>
         <h1
           className={styles.logo}
         >
