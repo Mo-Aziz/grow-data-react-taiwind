@@ -15,7 +15,7 @@ const Analytics = () => {
             teams, the long-standing debate between control and freedom emerges.
             The centralization-versus-decentralization debate often
           </p>
-          <button className=" bg-black text-[#00df9a] w-[200px] rounded-md cursor-pointer font-medium my-6 mx-auto md:mx-0 py-3  ">Get Started</button>
+          <button className=" bg-black text-[#00df9a] w-[200px] rounded-md cursor-pointer font-bold my-6 mx-auto md:mx-0 py-3  ">Get Started</button>
         </div>
       </div>
     </div>
