@@ -8,5 +8,5 @@
 
 
  ### React Icons
- ### react typed library
+ ### react typed library for text motions.
 
