@@ -5,8 +5,6 @@
 
 
 ### Tailwindcss
-
-
- ### React Icons
- ### react typed library for text motions.
+### React Icons
+### react typed library for text motions.
 
