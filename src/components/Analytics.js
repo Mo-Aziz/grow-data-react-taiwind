@@ -5,7 +5,7 @@ const Analytics = () => {
   return (
     <div className="w-full bg-white py-16 px-4">
       <div className="max-width-[1240px] mx-auto grid md:grid-cols-2">
-        <img  className="w-[500px] mx-auto my-4" src={Laptop} alt="laptop-image" />
+        <img  className="w-[500px] mx-auto my-4" src={Laptop} alt="laptop" />
         <div className="flex flex-col justify-center ">
           <p className="uppercase text-[#00df9a] font-bold">Data Analytics dashboard</p>
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold py-2">Manage Data Analytics Centerally</h1>
